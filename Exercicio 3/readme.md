@@ -39,9 +39,9 @@ O menu implementado foi simples, utilizando de um switch case, onde a pessoa pod
 
 <p>Segue abaixo a explicação de cada subexercício separadamente:
 <ul>
-    <li>[Letra A](/LetraA.md)</li>
-    <li>[Letra B](/LetraB.md)</li>
-    <li>[Letra C](/LetraC.md)</li>
+   <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/blob/main/Exercicio%203/LetraA.md">Letra A</a></li>    
+   <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/blob/main/Exercicio%203/LetraB.md">Letra B</a></li>
+   <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/blob/main/Exercicio%203/LetraC.md">Letra C</a></li>
 </ul>
 
 ---
