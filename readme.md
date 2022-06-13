@@ -22,9 +22,9 @@ Foi proposto pelo professor [Michel Pires da Silva](http://lattes.cnpq.br/144990
 
 <p>Segue abaixo a explicação de cada Exercício separadamente:
 <ul>
-    <li>[Exercício 1](Exercicio%201/)</li>
-    <li>[Exercício 2](Exercicio%202/)</li>
-    <li>[Exercício 3](Exercicio%203/)</li>
+    <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/tree/main/Exercicio%201">Exercício 1</a></li>
+    <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/tree/main/Exercicio%202">Exercício 2</a></li>
+    <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/tree/main/Exercicio%203">Exercício 3</a></li>
 </ul>
 
 ---
