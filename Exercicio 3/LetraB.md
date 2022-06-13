@@ -38,7 +38,7 @@ Para se somar todos os valores de uma Fila é simples, começando do primeiro bl
 
 ### Saída
 
-<img src="imgs/SaidaLetraB.png"/>
+<img src="imgs/SaidaB.png"/>
 
 ---
 
