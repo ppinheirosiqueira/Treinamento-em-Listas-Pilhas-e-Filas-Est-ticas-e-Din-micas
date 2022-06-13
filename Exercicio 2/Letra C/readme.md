@@ -18,7 +18,7 @@
 
 ## Apresentação
 
-Este é um subexercício de uma Lista de Exercícios, aqui só trataremos do subexercício C. 
+Este é um subexercício de uma Lista de Exercícios, [mais especificamente o Exercício 2](/Exercicio%202/). Aqui só trataremos do subexercício C. 
 
 O enunciado deste subexercício é o seguinte:
 
