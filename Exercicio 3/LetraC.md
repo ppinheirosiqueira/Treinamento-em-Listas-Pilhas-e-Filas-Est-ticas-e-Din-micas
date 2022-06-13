@@ -38,7 +38,7 @@ No começo do programa são perguntadas quantas Listas desejam-se testar e o tam
 
 ### Saída
 
-<img src="imgs/SaidaLetraC.png"/>
+<img src="imgs/SaidaC.png"/>
 
 ---
 
