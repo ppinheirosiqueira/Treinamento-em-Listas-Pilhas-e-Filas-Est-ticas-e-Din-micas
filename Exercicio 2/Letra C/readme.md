@@ -18,7 +18,7 @@
 
 ## Apresentação
 
-Este é um subexercício de uma Lista de Exercícios, quem criou esta lógica, a implementou e como compila-la pode ser visto na [explicação do Exercício geral](/readme.md). Aqui só trataremos do subexercício A. 
+Este é um subexercício de uma Lista de Exercícios, aqui só trataremos do subexercício C. 
 
 O enunciado deste subexercício é o seguinte:
 
