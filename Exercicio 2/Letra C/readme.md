@@ -52,6 +52,7 @@ Para a checagem do maior divisor comum foi utilizada uma função recursiva bast
 |3       | 0   | 2   |    
 
 Como pode ver, o Maior Divisor Comum entre 3 e 10 é 1, então são co-primos, porém o Maior Divisor Comum entre 2 e 4 é 2, então não são co-primos.
+
 ---
 
 ## Exemplo
