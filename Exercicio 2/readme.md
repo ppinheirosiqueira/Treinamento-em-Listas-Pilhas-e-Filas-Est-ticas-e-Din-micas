@@ -25,10 +25,10 @@ A Pilha Dinâmica utilizada é a mesma da básica existente na [biblioteca do pr
 
 <p>Segue abaixo a explicação de cada subexercício separadamente:
 <ul>
-    <li>[Letra A](Letra A/readme.md)</li>
-    <li>[Letra B](Letra B/readme.md)</li>
-    <li>[Letra C](Letra C/readme.md)</li>
-    <li>[Letra D](Letra D/readme.md)</li>
+    <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/tree/main/Exercicio%202/Letra%20A">Letra A</a></li> 
+    <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/tree/main/Exercicio%202/Letra%20B">Letra B</a></li> 
+    <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/tree/main/Exercicio%202/Letra%20C">Letra C</a></li> 
+    <li><a href="https://github.com/ppinheirosiqueira/Treinamento-em-Listas-Pilhas-e-Filas-Estaticas-e-Dinamicas/tree/main/Exercicio%202/Letra%20D">Letra D</a></li> 
 </ul>
 
 ---
